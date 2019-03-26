@@ -1,0 +1,6 @@
+numpy
+flask
+requests
+jupyter
+ipython
+scipy
